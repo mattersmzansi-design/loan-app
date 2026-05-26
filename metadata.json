@@ -1,0 +1,6 @@
+{
+  "name": "Loan & Credit Hub",
+  "description": "Securely link your credit bureau profiles and bank accounts to check pre-approvals, analyze transactions, and build financial health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
